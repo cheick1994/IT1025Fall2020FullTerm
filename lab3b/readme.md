@@ -20,11 +20,12 @@ This certification will allow me to stand out as a specialist in my field (Netwo
 # College Certificates
 Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
 Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
-There are two ways steps of becoming co-op "ready": (1) searching on the Students Career Oppunity on my Tric-c space, (2) receiving email from Students Program Center. Few weeks ago, i have receiving an email of co-op "ready'' opportunity, and i have applied for it. Co-op has many benefits: Getting an idea of working in Students interest of area, Getting Students ready for jobs in which there are majoring. It also gives Students more chances of getting hired after the completion of their program.
+There are two ways steps of becoming co-op "ready": (1) searching from the Students Career Oppunity on my Tric-c space, (2) receiving email from Students Program Center. Few weeks ago, i received an email of co-op "ready'' opportunity, and i have applied for it. Co-op has many benefits: Getting an idea of working in Students interest of area, Getting Students ready for jobs in which there are majoring. It also gives Students more chances of getting hired after the completion of their program.
 # Professional Membership
 Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
 
-If i am to pick a Student Club, it will be to run for presidency because not only it will instill the leadership skill in me, but only it will teach me a lot about what is like to in an administrastion.
+If i am to pick a Student Club, it will be to run for presidency because not only it will instill the leadership skill in me, but also it will teach me a lot about what is like to work in an administration.
 # Conclusion
 Summary of your understanding from this week's lab
+
 I really enjoy this lab and have learned a lot about searching for the possibilities of where i would to be working after completing my degree.
